@@ -1,0 +1,13 @@
+.add {
+	/* background-image: url("../../assets/svg/add.svg"); */
+	width: 12px;
+	height: 12px;
+	background-repeat: no-repeat;
+}
+
+.checked {
+	background-image: url("../../assets/svg/checked.svg");
+	width: 12px;
+	height: 12px;
+	background-repeat: no-repeat;
+}

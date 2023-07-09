@@ -1,0 +1,15 @@
+things to fix
+
+- if user clicks on card, except for the add button, then show product detail menu (DONE) 
+
+- if user clicks on add, only open checkout menu and update counter (DONE)
+
+- if product detail is opened and user clicks on add, CLOSE product detail and only show checkout (DONE)
+
+- if checkout menu is opened and user clicks on card, CLOSE checkout and only show product detail (DONE)
+
+- if user clicks on add, show checkout. If user keeps adding products, keep checkout open and add products to checkout  (DONE)
+
+- when user clicks on checkout button (located in the checkout menu) show the order that they had just created 
+
+- TO FIX: when user clicks on checkout several times, it adds the same order a bunch of times
